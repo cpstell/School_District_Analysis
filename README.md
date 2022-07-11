@@ -14,6 +14,8 @@ A school disctrict asked for a snapshot of several important metrics by each sch
 
 ## Summary
 
+![Picture of results](Total number of schools.png)
+
 
 
 
