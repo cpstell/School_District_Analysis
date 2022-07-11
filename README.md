@@ -16,8 +16,28 @@ A school disctrict asked for a snapshot of several important metrics by each sch
 
 ![Picture of results](Total_number_of_schools.png)
 
-The above image shows all relevant statistics in relation to how the students performed.
+The image above shows all relevant statistics in relation to how the students performed.
 
+
+![Picture of spending](Based_on_spending.png)
+
+The image above shows schools based on spending.
+
+![Picture of school type](Based_on_school_type.png)
+
+The image above shows schools based on type.
+
+![Picture of school size](Based_on_size.png)
+
+The image above shows schools based on size.
+
+![Picture of low schools](Top_five_lowest_performing_school.png)
+
+The image above shows the top five lowest performing schools.
+
+![Picture of high schools](Top_five_performing_schools.png)
+
+The image above shos the top five highest performing schools.
 
 
 
