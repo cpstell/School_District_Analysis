@@ -49,7 +49,7 @@ The analysis of the School district data reveals the following:
 
 ## Summary
 
-The analysis of the Thomas High School data reveals of few key items of significance. It is interesting to see how budget size, school type, and size of school all play a role in final grades. By removing the ninth grade from the data analysis grades ten through twelve showed an incresse in their scores. I noticed high perfroming schools faired better than larger schools reagardless of budget size.  A future analysis could further see the affects of school type and size. Have a charter school with a large size compare to a charter school with a small size to study the affects of large versus small size in the same type of school. 
+The analysis of the Thomas High School data reveals of few key items of significance. It is interesting to see how budget size, school type, and size of school all play a role in final grades. By removing the ninth grade from the data analysis grades ten through twelve showed an incresse in their scores. I noticed high performing schools faired better than larger schools reagardless of budget size.  A future analysis could further see the affects of school type and size. Have a charter school with a large size compare to a charter school with a small size to study the affects of large versus small size in the same type of school. 
 
 
 
