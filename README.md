@@ -14,7 +14,7 @@ A school disctrict asked for a snapshot of several important metrics by each sch
 
 ## Summary
 
-![Picture of Election Results ](Election_Results.png)
+![Picture of Revised district scores ](Revised district scores.png)
 
 
 
