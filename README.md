@@ -15,9 +15,10 @@ A school disctrict asked for a snapshot of several important metrics by each sch
 ## Summary
 
 ![Picture of results](Total_number_of_schools.png)
+
 The above image shows all relevant statistics in relation to how the students performed.
 
-![Picture of spending](Based_on_spendging.png)
+
 
 
 
