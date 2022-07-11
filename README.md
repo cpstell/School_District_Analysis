@@ -13,5 +13,3 @@ The affect of replacing the ninth graders’ math and reading scores in relation
 ## Results
 
 ### How is the district summary affected?
-
-![Picture of results ](Original District scores.png)
